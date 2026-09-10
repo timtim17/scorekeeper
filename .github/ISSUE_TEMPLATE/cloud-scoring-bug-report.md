@@ -1,6 +1,6 @@
 ---
-name: Cloud Scoring Bug Report
-about: Submit a bug in ftc-scoring.firstinspires.org
+name: Cloud Scoring / Event Portal Bug Report
+about: Submit a bug in ftc-scoring.firstinspires.org / FTC portions of event-portal.firstinspires.org
 title: ''
 labels: Cloud
 type: Bug
